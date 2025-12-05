@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+src/HierarchyDetector/HD.py
+src/HierarchyDetector.egg-info/PKG-INFO
+src/HierarchyDetector.egg-info/SOURCES.txt
+src/HierarchyDetector.egg-info/dependency_links.txt
+src/HierarchyDetector.egg-info/top_level.txt
